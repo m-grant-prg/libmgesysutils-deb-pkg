@@ -1,0 +1,9 @@
+usr/share/doc-base/libmgesysutils-int
+usr/share/doc/libmgesysutils/int/html-int/*
+usr/share/doc/libmgesysutils/int/libmgesysutils-int-doxy-*.tar.gz
+usr/share/doc/libmgesysutils/AUTHORS usr/share/doc/libmgesysutils-int-doc
+usr/share/doc/libmgesysutils/ChangeLog usr/share/doc/libmgesysutils-int-doc
+usr/share/doc/libmgesysutils/COPYING usr/share/doc/libmgesysutils-int-doc
+usr/share/doc/libmgesysutils/NEWS usr/share/doc/libmgesysutils-int-doc
+usr/share/doc/libmgesysutils/README usr/share/doc/libmgesysutils-int-doc
+
