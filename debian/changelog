@@ -1,3 +1,9 @@
+libmgesysutils1 (1.4.6-0ubuntu20.04u2) focal; urgency=medium
+
+  * Correct build depends from libmgec3 to libmgec2.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Nov 2022 15:30:59 +0000
+
 libmgesysutils1 (1.4.6-0ubuntu20.04u1) focal; urgency=medium
 
   * New upstream release.
