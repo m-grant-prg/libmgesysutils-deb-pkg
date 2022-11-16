@@ -1,4 +1,4 @@
-Source: libmgesysutils
+Source: libmgesysutils1
 Priority: optional
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
 Build-Depends: debhelper (>= 12~), autoconf-archive, libtool-bin, pkg-config,
