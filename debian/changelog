@@ -1,9 +1,9 @@
-libmgesysutils1 (1.4.6-0ubuntu22.04u1) UNRELEASED; urgency=medium
+libmgesysutils1 (1.4.6-0ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release.
   * Change libmgec3 to libmgec2.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 17 Nov 2022 10:22:01 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 17 Nov 2022 10:27:05 +0000
 
 libmgesysutils (1.4.5-0ubuntu22.04u1) jammy; urgency=medium
 
