@@ -1,3 +1,9 @@
+libmgesysutils1 (1.4.6-0ubuntu22.04u1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 17 Nov 2022 10:22:01 +0000
+
 libmgesysutils (1.4.5-0ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release.
@@ -100,7 +106,7 @@ libmgesysutils (1.1.1+rc1-deb10u1) buster; urgency=medium
 
   * New upstream develoment release.
     Update Copyright for 2020.
-    Debian changes to support the separation of API and full internal 
+    Debian changes to support the separation of API and full internal
     documentation contained in the upstream release.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 26 Jun 2020 13:40:52 +0100
