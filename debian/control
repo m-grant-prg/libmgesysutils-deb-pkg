@@ -4,7 +4,7 @@ Maintainer: Mark Grant <m.grant.prg@gmail.com>
 Build-Depends: debhelper-compat (= 13), autoconf-archive, libtool-bin,
 	pkg-config,
 	doxygen, graphviz, tar(>= 1.26), txt2man, txt2manwrap,
-	libmgec3-dev, libmgec3
+	libmgec2-dev, libmgec2
 Standards-Version: 4.5.1
 Section: libs
 Vcs-Git: https://github.com/m-grant-prg/libmgesysutils.git
