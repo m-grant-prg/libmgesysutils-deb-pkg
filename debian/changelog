@@ -1,9 +1,9 @@
-libmgesysutils2 (1.5.0-deb11u1) UNRELEASED; urgency=medium
+libmgesysutils2 (1.5.0-deb11u1) bullseye; urgency=medium
 
   * New upstream release.
   * Change name to libmgesysutils2 (soname is 2).
 
- -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Nov 2022 14:15:39 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Nov 2022 14:25:01 +0000
 
 libmgesysutils (1.4.4-deb11u1) bullseye; urgency=medium
 
