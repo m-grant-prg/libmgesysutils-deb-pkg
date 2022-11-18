@@ -1,6 +1,7 @@
 libmgesysutils2 (1.5.0-deb11u1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Change name to libmgesysutils2 (soname is 2).
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Nov 2022 14:15:39 +0000
 
