@@ -1,8 +1,8 @@
-libmgesysutils2 (1.5.0-0ubuntu22.04u1) UNRELEASED; urgency=medium
+libmgesysutils2 (1.5.0-0ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sat, 19 Nov 2022 14:08:37 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 19 Nov 2022 14:28:14 +0000
 
 libmgesysutils (1.4.4-0ubuntu22.04u1) jammy; urgency=medium
 
