@@ -1,0 +1,62 @@
+Source: libmgesysutils2
+Priority: optional
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13), autoconf-archive, libtool-bin,
+	pkg-config,
+	doxygen, graphviz, tar(>= 1.26), txt2man, txt2manwrap,
+	libmgec7-dev, libmgec7
+Standards-Version: 4.5.1
+Section: libs
+Vcs-Git: https://github.com/m-grant-prg/libmgesysutils.git
+Vcs-Browser: https://github.com/m-grant-prg/libmgesysutils
+
+Package: libmgesysutils2-dev
+Provides: libmgesysutils-dev
+Conflicts: libmgesysutils-dev
+Replaces: libmgesysutils-dev
+Section: libdevel
+Architecture: any
+Depends: libmgesysutils2 (= ${binary:Version}), ${misc:Depends}
+Description: MGE system utilities library development files.
+ A library containing utilities such as config file processing and messaging
+ a remote syslog server.
+ This package contains the development files such as static libraries, header
+ files and man pages.
+
+Package: libmgesysutils2-doc
+Provides: libmgesysutils-doc
+Conflicts: libmgesysutils-doc
+Replaces: libmgesysutils-doc
+Section: doc
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: doc-base
+Suggests: dochelp
+Description: MGE system utilities library documentation.
+ A library containing utilities such as config file processing and messaging
+ a remote syslog server.
+ This package contains the API documentation of the library.
+
+Package: libmgesysutils2-int-doc
+Provides: libmgesysutils-int-doc
+Conflicts: libmgesysutils-int-doc
+Replaces: libmgesysutils-int-doc
+Section: doc
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: doc-base
+Suggests: dochelp
+Description: MGE system utilities library documentation.
+ A library containing utilities such as config file processing and messaging
+ a remote syslog server.
+ This package contains the full internal documentation of the library.
+
+Package: libmgesysutils2
+Section: libdevel
+Architecture: any
+Depends: libmgec7, ${shlibs:Depends}, ${misc:Depends}
+Description: MGE system utilities library.
+ A library containing utilities such as config file processing and messaging
+ a remote syslog server.
+ This package contains the library.
+
