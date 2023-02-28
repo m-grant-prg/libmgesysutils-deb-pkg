@@ -1,3 +1,9 @@
+libmgesysutils2 (1.5.0+deb11u3) bullseye; urgency=medium
+
+  * Change to Debian native format.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Feb 2023 13:46:27 +0000
+
 libmgesysutils2 (1.5.0-deb11u2) bullseye; urgency=medium
 
   * Bump version numer to solve OBS problems.
