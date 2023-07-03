@@ -1,3 +1,9 @@
+libmgesysutils1 (1.4.7-deb11u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 03 Jul 2023 11:09:36 +0100
+
 libmgesysutils1 (1.4.6-deb11u1) bullseye; urgency=medium
 
   * New upstream release.
