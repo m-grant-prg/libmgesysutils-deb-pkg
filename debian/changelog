@@ -1,3 +1,9 @@
+libmgesysutils1 (1.4.7-0ubuntu20.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 04 Jul 2023 09:32:58 +0100
+
 libmgesysutils1 (1.4.6-0ubuntu20.04u3) focal; urgency=medium
 
   * Use correct upstream version.
