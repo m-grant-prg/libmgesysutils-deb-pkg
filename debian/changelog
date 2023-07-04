@@ -1,11 +1,11 @@
-libmgesysutils1 (1.4.7-0ubuntu20.04u1) UNRELEASED; urgency=medium
+libmgesysutils1 (1.4.7-0ubuntu20.04u1) focal; urgency=medium
 
   * Merge new upstream release.
   * Update Copyright for 2023.
   * Update watch file to support ~.
   * Change source format to native.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 04 Jul 2023 09:32:58 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 04 Jul 2023 09:41:08 +0100
 
 libmgesysutils1 (1.4.6-0ubuntu20.04u3) focal; urgency=medium
 
