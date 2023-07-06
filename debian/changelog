@@ -1,6 +1,7 @@
 libmgesysutils2 (1.5.1+deb11u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
+  * Update Copyright for 2023.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jul 2023 08:57:49 +0100
 
