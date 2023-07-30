@@ -1,3 +1,9 @@
+libmgesysutils2 (1.6.0+deb13u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 30 Jul 2023 15:40:43 +0100
+
 libmgesysutils2 (1.5.1+deb13u1) testing; urgency=medium
 
   * Create testing branch.
