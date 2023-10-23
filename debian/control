@@ -3,7 +3,7 @@ Priority: optional
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
 Build-Depends: debhelper-compat (= 13), autoconf-archive, libtool-bin,
 	pkg-config,
-	doxygen, graphviz, tar(>= 1.26), txt2man, txt2manwrap,
+	doxygen, graphviz, tar, txt2man, txt2manwrap,
 	libmgec7-dev, libmgec7
 Standards-Version: 4.5.1
 Section: libs
