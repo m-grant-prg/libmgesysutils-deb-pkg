@@ -16,7 +16,8 @@ Conflicts: libmgesysutils-dev
 Replaces: libmgesysutils-dev
 Section: libdevel
 Architecture: any
-Depends: libmgesysutils2 (= ${binary:Version}), ${misc:Depends}
+Depends: libmgesysutils2 (= ${binary:Version}),
+	${misc:Depends}
 Description: MGE system utilities library development files.
  A library containing utilities such as config file processing and messaging
  a remote syslog server.
@@ -54,7 +55,8 @@ Description: MGE system utilities library documentation.
 Package: libmgesysutils2
 Section: libdevel
 Architecture: any
-Depends: libmgec7, ${shlibs:Depends}, ${misc:Depends}
+Depends: libmgec7,
+	${shlibs:Depends}, ${misc:Depends}
 Description: MGE system utilities library.
  A library containing utilities such as config file processing and messaging
  a remote syslog server.
