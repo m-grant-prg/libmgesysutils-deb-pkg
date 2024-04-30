@@ -1,3 +1,9 @@
+libmgesysutils2 (1.6.1+ubuntu24.04u1) noble; urgency=medium
+
+  * Create noble
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 10:26:03 +0100
+
 libmgesysutils2 (1.6.1+ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release
@@ -14,7 +20,7 @@ libmgesysutils2 (1.6.1+ubuntu22.04u1) jammy; urgency=medium
   * Add lintian override for watch file
   * Silence lintian changelog-file-missing-explicit-entry warning
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 10:18:01 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 10:25:24 +0100
 
 libmgesysutils2 (1.6.0-0ubuntu22.04u1) jammy; urgency=medium
 
