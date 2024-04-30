@@ -1,3 +1,21 @@
+libmgesysutils2 (1.6.1+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Remove versions in Depends fields, too old
+  * Remove Depends on txt2man
+  * Re-order Depends to ease cherry picking to Ubuntu
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Add minimum versions for tar
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 10:04:57 +0100
+
 libmgesysutils2 (1.6.0+deb13u1) trixie; urgency=medium
 
   * Merge new upstream release.
