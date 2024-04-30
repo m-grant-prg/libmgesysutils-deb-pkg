@@ -1,3 +1,9 @@
+libmgesysutils2 (1.6.1+deb12u1) bookworm; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 09:46:51 +0100
+
 libmgesysutils2 (1.6.1~rc2+deb12u1) bookworm; urgency=medium
 
   * Update editorconfig to v1.0.6
@@ -10,7 +16,7 @@ libmgesysutils2 (1.6.1~rc2+deb12u1) bookworm; urgency=medium
   * Add lintian override for watch file
   * Silence lintian changelog-file-missing-explicit-entry warning
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 Mar 2024 10:12:58 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 09:45:47 +0100
 
 libmgesysutils2 (1.6.1~rc1+deb12u1) bookworm; urgency=medium
 
