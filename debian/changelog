@@ -1,8 +1,14 @@
+libmgesysutils2 (1.6.2+deb12u1) bookworm; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 03 Jun 2024 09:39:41 +0100
+
 libmgesysutils2 (1.6.1+deb12u1) bookworm; urgency=medium
 
   * New upstream release
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 09:46:51 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 03 Jun 2024 09:38:46 +0100
 
 libmgesysutils2 (1.6.1~rc2+deb12u1) bookworm; urgency=medium
 
