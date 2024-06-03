@@ -1,8 +1,14 @@
+libmgesysutils2 (1.6.2+ubuntu24.04u1) noble; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 03 Jun 2024 10:27:24 +0100
+
 libmgesysutils2 (1.6.1+ubuntu24.04u1) noble; urgency=medium
 
   * Create noble
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Apr 2024 10:26:03 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 03 Jun 2024 10:26:49 +0100
 
 libmgesysutils2 (1.6.1+ubuntu22.04u1) jammy; urgency=medium
 
