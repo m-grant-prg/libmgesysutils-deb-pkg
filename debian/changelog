@@ -1,3 +1,10 @@
+libmgesysutils2 (1.6.5+ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Jul 2025 09:51:09 +0100
+
 libmgesysutils2 (1.6.2+ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release
