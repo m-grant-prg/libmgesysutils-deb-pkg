@@ -1,3 +1,11 @@
+libmgesysutils2 (1.7.0+ubuntu24.04u1) noble; urgency=medium
+
+  * New upstream release
+  * Remove historical 2 package defense
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 11 Jul 2025 14:22:10 +0100
+
 libmgesysutils2 (1.6.2+ubuntu24.04u1) noble; urgency=medium
 
   * New upstream release
