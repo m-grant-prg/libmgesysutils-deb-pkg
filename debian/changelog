@@ -1,3 +1,9 @@
+libmgesysutils2 (1.7.0+deb14u2) forky; urgency=medium
+
+  * Transition from Trixie to Forky
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 24 Aug 2025 15:04:43 +0100
+
 libmgesysutils2 (1.7.0+deb13u1) trixie; urgency=medium
 
   * New upstream release
