@@ -1,3 +1,9 @@
+libmgesysutils2 (1.7.1+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 27 Oct 2025 15:01:46 +0000
+
 libmgesysutils2 (1.7.0+deb13u2) trixie; urgency=medium
 
   * New Debian release of trixie
