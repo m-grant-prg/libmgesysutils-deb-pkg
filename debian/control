@@ -1,8 +1,7 @@
 Source: libmgesysutils2
 Priority: optional
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
-Build-Depends: debhelper-compat (= 13), autoconf-archive, libtool-bin,
-	pkg-config,
+Build-Depends: debhelper-compat (= 13), autoconf-archive, libtool-bin, pkgconf,
 	doxygen, graphviz,
 	libmgec7-dev, libmgec7, txt2manwrap
 Standards-Version: 4.5.1
