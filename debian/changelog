@@ -1,3 +1,11 @@
+libmgesysutils2 (1.7.3+deb14u1) forky; urgency=medium
+
+  * Use pkgconf AOT pkg-config
+  * Update Copyright for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 16 Apr 2026 10:45:36 +0100
+
 libmgesysutils2 (1.7.2+deb14u1) forky; urgency=medium
 
   * New upstream release
