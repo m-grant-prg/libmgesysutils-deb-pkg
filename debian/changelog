@@ -1,3 +1,11 @@
+libmgesysutils2 (1.7.3+ubuntu24.04u1) noble; urgency=medium
+
+  * Use pkgconf AOT pkg-config
+  * Update Copyright for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 16 Apr 2026 10:49:31 +0100
+
 libmgesysutils2 (1.7.2+ubuntu24.04u1) noble; urgency=medium
 
   * New upstream release
